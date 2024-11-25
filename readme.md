@@ -1,5 +1,10 @@
 # Análise dos Reviews de Livros Mais Vendidos na Amazon
 
+![image](https://github.com/user-attachments/assets/e4d526ab-3ba2-43eb-aed4-a573410d025a)
+
+![image](https://github.com/user-attachments/assets/3c597f87-08b4-43a5-b7f9-0a162cf450a9)
+
+
 ## Introdução
 
 Este projeto visa analisar os reviews expressos dos livros mais vendidos na Amazon, com visualizações interativas, buscamos extrair insights valiosos sobre a percepção dos leitores em relação aos livros mais populares da plataforma.
